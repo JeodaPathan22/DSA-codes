@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void bubbleSort(int a[],int n)s
+void bubbleSort(int a[],int n)
 {
     int temp;
     for(int i=0; i<n-1; i++)
